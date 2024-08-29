@@ -1,4 +1,3 @@
-```markdown
 # Image and JSON Analysis Tool
 
 ## Overview
@@ -28,7 +27,7 @@ To run this project, you need to install the following dependencies:
 - **Libraries**: Install the required Python libraries using pip:
   ```bash
   pip install opencv-python-headless pillow torch torchvision face_recognition deepface matplotlib pandas
-  ```
+
 
 ## Installation
 

@@ -1,0 +1,104 @@
+Summary for 1.jpg:
+Face Analysis:
+ - Age: 35, Gender: Woman, Race: white, Emotion: happy
+Object Detections:
+ - Object ID: 655, Confidence: 21.08%
+ - Object ID: 639, Confidence: 14.74%
+ - Object ID: 885, Confidence: 13.40%
+ - Object ID: 869, Confidence: 9.03%
+ - Object ID: 834, Confidence: 7.33%
+
+==================================================
+Summary for 10.jpg:
+Face Analysis:
+ - Age: 27, Gender: Man, Race: black, Emotion: happy
+ - Age: 25, Gender: Man, Race: middle eastern, Emotion: happy
+Object Detections:
+ - Object ID: 906, Confidence: 7.79%
+ - Object ID: 389, Confidence: 4.47%
+ - Object ID: 678, Confidence: 4.42%
+ - Object ID: 465, Confidence: 3.89%
+ - Object ID: 394, Confidence: 3.37%
+
+==================================================
+Summary for 2.jpg:
+Face Analysis:
+ - Age: 31, Gender: Man, Race: white, Emotion: happy
+Object Detections:
+ - Object ID: 906, Confidence: 55.91%
+ - Object ID: 834, Confidence: 25.28%
+ - Object ID: 683, Confidence: 3.83%
+ - Object ID: 457, Confidence: 2.39%
+ - Object ID: 465, Confidence: 1.97%
+
+==================================================
+Summary for 3.jpg:
+Face Analysis:
+ - Age: 28, Gender: Man, Race: asian, Emotion: happy
+ - Age: 35, Gender: Woman, Race: asian, Emotion: happy
+Object Detections:
+ - Object ID: 906, Confidence: 6.10%
+ - Object ID: 917, Confidence: 5.20%
+ - Object ID: 683, Confidence: 4.54%
+ - Object ID: 465, Confidence: 4.04%
+ - Object ID: 678, Confidence: 3.79%
+
+==================================================
+Summary for 4.jpg:
+Face Analysis:
+ - Age: 34, Gender: Woman, Race: white, Emotion: happy
+Object Detections:
+ - Object ID: 474, Confidence: 17.19%
+ - Object ID: 735, Confidence: 11.02%
+ - Object ID: 824, Confidence: 9.01%
+ - Object ID: 689, Confidence: 8.73%
+ - Object ID: 601, Confidence: 4.62%
+
+==================================================
+Summary for 5.jpg:
+Face Analysis:
+ - Age: 32, Gender: Woman, Race: asian, Emotion: happy
+Object Detections:
+ - Object ID: 610, Confidence: 10.26%
+ - Object ID: 459, Confidence: 10.04%
+ - Object ID: 474, Confidence: 7.12%
+ - Object ID: 903, Confidence: 6.58%
+ - Object ID: 697, Confidence: 6.02%
+
+==================================================
+Summary for 7.jpg:
+Face Analysis:
+ - Age: 33, Gender: Man, Race: asian, Emotion: angry
+ - Age: 38, Gender: Man, Race: white, Emotion: happy
+ - Age: 37, Gender: Man, Race: asian, Emotion: neutral
+Object Detections:
+ - Object ID: 499, Confidence: 37.27%
+ - Object ID: 681, Confidence: 35.30%
+ - Object ID: 617, Confidence: 6.51%
+ - Object ID: 620, Confidence: 3.32%
+ - Object ID: 549, Confidence: 2.80%
+
+==================================================
+Summary for 8.jpg:
+Face Analysis:
+ - Age: 22, Gender: Woman, Race: white, Emotion: sad
+Object Detections:
+ - Object ID: 681, Confidence: 77.27%
+ - Object ID: 620, Confidence: 7.22%
+ - Object ID: 869, Confidence: 2.52%
+ - Object ID: 636, Confidence: 1.26%
+ - Object ID: 499, Confidence: 0.73%
+
+==================================================
+Summary for 9.jpg:
+Face Analysis:
+ - Age: 39, Gender: Man, Race: white, Emotion: happy
+ - Age: 33, Gender: Man, Race: asian, Emotion: neutral
+Object Detections:
+ - Object ID: 549, Confidence: 53.53%
+ - Object ID: 617, Confidence: 10.06%
+ - Object ID: 499, Confidence: 9.22%
+ - Object ID: 681, Confidence: 5.49%
+ - Object ID: 419, Confidence: 3.74%
+
+==================================================

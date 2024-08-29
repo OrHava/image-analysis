@@ -92,5 +92,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - The matplotlib and pandas libraries for data visualization and analysis.
 
 Feel free to modify and extend this tool to suit your needs. If you encounter any issues or have suggestions, please open an issue or submit a pull request.
-```
+## Pictures Example
+<img width="883" alt="צילום מסך 2024-08-29 232944" src="https://github.com/user-attachments/assets/1ebddd7f-b0a0-40e5-be07-0a6d4aaed8fe">
+
+
 
